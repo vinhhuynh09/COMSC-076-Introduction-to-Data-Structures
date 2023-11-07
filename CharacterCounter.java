@@ -1,8 +1,7 @@
 /***********************************************************************************************************************
  * Name: Vinh Huynh
  * Assignment: Test #1 Program
- * Course: COMSC 076 Section 201. Summer 2023
- * Instructor: Professor Henry Estrada
+ * Course: COMSC 076. Summer 2023
  * Date: June 29, 2023
  ***********************************************************************************************************************
  * Test #1 - Program
@@ -37,12 +36,12 @@ public class CharacterCounter {
         searchChar = input.next().charAt(0);
         // Note: User must NOT enter a space ' '. This program does not search for space.
         // In order for this program to search for space, searchChar must be type String and convert to char.
-        //   String searchChar = input.nextLine();
-        //    char c = searchChar.charAt(0);
+        // String searchChar = input.nextLine();
+        // char c = searchChar.charAt(0);
         // and instead of calling
-        //         occursTimes = charCount(charArray, charArray.length - 1, searchChar);
+        // occursTimes = charCount(charArray, charArray.length - 1, searchChar);
         // call this
-        //         occursTimes = charCount(charArray, charArray.length - 1, c);
+        // occursTimes = charCount(charArray, charArray.length - 1, c);
 
         charArray = new char[str.length()];     // Convert str to charArray
         for (int i = 0; i < charArray.length; i++) {
