@@ -1,8 +1,7 @@
 /***********************************************************************************************************************
  * Name: Vinh Huynh
  * Assignment: Program #3 Part 2 Recursion
- * Course: COMSC 076 Section 201. Summer 2023
- * Instructor: Professor Henry Estrada
+ * Course: COMSC 076. Summer 2023
  * Date: June 27, 2023
  ***********************************************************************************************************************
  * Description:
