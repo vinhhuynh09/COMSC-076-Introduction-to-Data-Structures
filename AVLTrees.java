@@ -1,8 +1,7 @@
 /***********************************************************************************************************************
  * Name: Vinh Huynh
  * Assignment: Extra Credit AVL Trees
- * Course: COMSC 076 Section 201. Summer 2023
- * Instructor: Professor Henry Estrada
+ * Course: COMSC 076. Summer 2023
  * Date: July 20, 2023
  ***********************************************************************************************************************
  * Description:
