@@ -1,8 +1,7 @@
 /***********************************************************************************************************************
  * Name: Vinh Huynh
  * Assignment: Program #11 Hashing
- * Course: COMSC 076 Section 201. Summer 2023
- * Instructor: Professor Henry Estrada
+ * Course: COMSC 076. Summer 2023
  * Date: July 24, 2023
  ***********************************************************************************************************************
  * Create a new concrete class that implements MyMap (Listing 27.1) using open addressing with quadratic probing.
