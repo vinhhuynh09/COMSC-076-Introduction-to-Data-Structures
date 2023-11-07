@@ -2,8 +2,7 @@
  * Group: Group 1
  * Names: Vinh Huynh, Mohsen Alavian Ghavanini, Janelle Correa, Manreev Cheema, Xunwei Shi
  * Assignment: Group Project Part 2
- * Course: COMSC 076 Section 201. Summer 2023
- * Instructor: Professor Henry Estrada
+ * Course: COMSC 076. Summer 2023
  * Date: July 25, 2023
  ***********************************************************************************************************************
  * Description:
